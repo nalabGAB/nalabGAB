@@ -3,4 +3,4 @@
 <br>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-azanha-balan-7b23b52b6/) 
-[![Portfolio Badge](https://img.shields.io/badge/Site%20de%20Portif%C3%B3lio-1d803e?style=for-the-badge)](https://nalabportfolio.netlify.app)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio?style=for-the-badge)](https://nalabportfolio.netlify.app)
