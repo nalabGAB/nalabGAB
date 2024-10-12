@@ -1,6 +1,6 @@
 # 👋 Hello
 <p> My name is Gabriel. I am currently studying about System Development, mainly Artificial Intelligence and Machine Learning. </p>
-<br>
+<p>&nbsp;</p>
 
 # 🧠 Main Skills
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) 
