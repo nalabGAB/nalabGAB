@@ -1,6 +1,8 @@
 # 👋 Hello
 <p> My name is Gabriel. I am currently studying about System Development, mainly Artificial Intelligence and Machine Learning. </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-azanha-balan-7b23b52b6/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-1d803e?style=for-the-badge)](https://nalabportfolio.netlify.app)
 
