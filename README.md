@@ -1,7 +1,7 @@
 # 👋 Hello
 <p> My name is Gabriel. I am currently studying about System Development, mainly Artificial Intelligence and Machine Learning. </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nalabGAB&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalabGAB&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nalabGAB&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalabGAB&layout=compact&theme=merko)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-azanha-balan-7b23b52b6/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-1d803e?style=for-the-badge)](https://nalabportfolio.netlify.app)
